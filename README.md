@@ -32,7 +32,7 @@ The dataset contains information on company layoffs, including:
 - Funds Raised
 
 **Note:** This analysis uses the cleaned dataset produced in my previous SQL Data Cleaning project.
-**[world_layoff_data_cleaning](https://github.com/joelokolie/world-layoffs-data-cleaning)**
+**[World Layoff Data Cleaning](https://github.com/joelokolie/world-layoffs-data-cleaning)**
 
 ---
 
@@ -79,14 +79,19 @@ This analysis answers the following questions:
 - Which industries dominated layoffs each year?
 - Which countries were most affected each year?
 
+![Time Analysis](images/time_analysis.png)
+
 ### Company Stage Analysis
 
 - Which funding stages experienced the highest layoffs?
 - Which stages experienced the highest percentage of workforce reduction?
 
+![Stage Analysis](images/company_stage_analysis.png)
+
 ---
 
 ## Summary Statistics
+
 ![Summary Statistics](images/summary_statistics.png)
 
 ---
@@ -159,10 +164,9 @@ Some of the insights discovered include:
 ## Related Project
 
 This analysis builds on my previous project:
+**[World Layoffs Data Cleaning](https://github.com/joelokolie/world-layoffs-data-cleaning)**
 
-**World Layoffs Data Cleaning Using SQL**
-
-where the raw dataset was cleaned and standardized before analysis.
+where the raw dataset was cleaned and standardized for analysis.
 
 ---
 
@@ -171,3 +175,7 @@ where the raw dataset was cleaned and standardized before analysis.
 **Joel Chukwudi Okolie**
 
 Aspiring Data Analyst
+
+GitHub: https://github.com/joelokolie
+
+LinkedIn: https://www.linkedin.com/in/joel-okolie
