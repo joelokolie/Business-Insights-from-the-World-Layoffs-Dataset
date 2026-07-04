@@ -32,6 +32,7 @@ The dataset contains information on company layoffs, including:
 - Funds Raised
 
 **Note:** This analysis uses the cleaned dataset produced in my previous SQL Data Cleaning project.
+
 **[World Layoff Data Cleaning](https://github.com/joelokolie/world-layoffs-data-cleaning)**
 
 ---
